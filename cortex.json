@@ -1,0 +1,7 @@
+{
+    "name": "mocha",
+    "version": "1.18.2",
+    "directories": {
+        "dist": "dist"
+    }
+}
